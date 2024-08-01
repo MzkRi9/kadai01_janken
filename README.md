@@ -7,7 +7,7 @@
 そこで、基本から覚えていけられるように、簡単なじゃんけんっぽいゲームを作りました。
 
 ## ③DEMO
-
+https://mzkri9.github.io/kadai01_janken/
 
 ## ④作ったアプリケーション用のIDまたはPasswordがある場合
 - ID: なし
