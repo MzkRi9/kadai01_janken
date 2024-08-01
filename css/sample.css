@@ -1,0 +1,30 @@
+body{
+    margin:0;
+    padding:0;
+    text-align:center;
+    font-family: "Yusei Magic", sans-serif;
+    font-size: 32px;
+}
+header{
+    border-bottom: 1px solid #ccc;
+    height: 200px;
+    text-align: center;
+    background-image: url(/img/genshin_background.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+.card:hover {
+    transform: scale(1.2,1.2);
+    transition-duration: 0.3s;
+}
+
+section {
+    display: flex;
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    justify-content: space-between;
+    align-items: center;
+}
