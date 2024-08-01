@@ -9,7 +9,7 @@ header{
     border-bottom: 1px solid #ccc;
     height: 200px;
     text-align: center;
-    background-image: url(/img/genshin_background.jpeg);
+    background-image: url("../img/genshin_background.jpeg");
     background-size: cover;
     background-repeat: no-repeat;
 }
